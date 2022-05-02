@@ -1,9 +1,9 @@
 # Wavelabs
 
-**Prerequisites :**
+Prerequisites :
  Required software : Java 8, Maven, Eclipse
  
-**Execution:**
+Execution:
 
 1. Import the project to eclipse from gitHub "https://github.com/ravikumarjb15/Wavelabs"
 	clone URL: https://github.com/ravikumarjb15/Wavelabs.git
@@ -16,5 +16,5 @@
 7. Basic cucumber HTML report configured and Json report, both can be find in target folder
 
 
-**Note:**
+Note:
 Java document comments are not maintained due to time constraint
