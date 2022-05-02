@@ -1,0 +1,456 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-05-02T15:19:01.707Z",
+        "line": 4,
+        "name": "Generate TestData",
+        "description": "",
+        "id": "todo-list;generate-testdata",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9377000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 701000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Generate random email",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.generate_random_email()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:19:11.912Z",
+        "line": 8,
+        "name": "Account Creation",
+        "description": "",
+        "id": "todo-list;account-creation",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1463000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 864000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Create Account",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.create_Account()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 12594000000,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "Fill user data and Register account",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.fill_user_data_and_Register_account()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:19:26.842Z",
+        "line": 20,
+        "name": "Login Validation",
+        "description": "",
+        "id": "todo-list;login-validation;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1224000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3072000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Login to the account \"dummy\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"dummy\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.AssignmentStepDefinition.Login_to_the_account(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25079000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Validate Home Page",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.Validate_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:19:56.228Z",
+        "line": 21,
+        "name": "Login Validation",
+        "description": "",
+        "id": "todo-list;login-validation;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1439000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1721000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Login to the account \"dummy\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"dummy\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.AssignmentStepDefinition.Login_to_the_account(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25062000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Validate Home Page",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.Validate_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:20:24.453Z",
+        "line": 22,
+        "name": "Login Validation",
+        "description": "",
+        "id": "todo-list;login-validation;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1017000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3063000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Login to the account \"Validuser\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Validuser\"",
+                  "offset": 21
+                }
+              ],
+              "location": "stepDefinitions.AssignmentStepDefinition.Login_to_the_account(java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 105000000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Validate Home Page",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.Validate_Home_Page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:20:28.646Z",
+        "line": 24,
+        "name": "Adding to cart",
+        "description": "",
+        "id": "todo-list;adding-to-cart",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2163000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 29394000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Login to the account",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.loginToAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3772000000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Navigate to women section",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.navigate_to_women_section()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 18489000000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Adding all the items to cart from the list",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.adding_all_the_items_to_cart_from_the_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4034000000,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Navigate to dresses section",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.navigate_to_dresses_section()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13305000000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Adding all the items to cart from the list",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.adding_all_the_items_to_cart_from_the_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1674000000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "Navigate to Tshirts section",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.navigate_to_Tshirts_section()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4045000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "Adding all the items to cart from the list",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.adding_all_the_items_to_cart_from_the_list()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3588000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Navigating to cart",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.navigate_to_cart()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 58000000,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "cart total item count",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.cartCount()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 382000000,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "Duplicate amount or product",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.Duplicate_amount_or_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1257000000,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "Delete third and sixth item",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.Delete_third_and_sixth_item()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-05-02T15:21:50.817Z",
+        "line": 38,
+        "name": "Mobile View",
+        "description": "",
+        "id": "todo-list;mobile-view",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2662000000,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "Launch browser in Mobile view",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.mobileView()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 14158000000,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "Launch Demo application",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.launch_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6140000000,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "Login to the account",
+            "match": {
+              "location": "stepDefinitions.AssignmentStepDefinition.loginToAccount()"
+            },
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "ToDo List",
+    "description": "  Below scenarios will validate as per the assignment",
+    "id": "todo-list",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Assignment.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,76 @@
+2022-05-02 20:49:11 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:49:11 INFO  Base:32 - Randon Email has generated and stored in Excel......
+2022-05-02 20:49:13 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:49:13 INFO  Base:87 - Action clear text for the element createAcc_Email_input has success
+2022-05-02 20:49:13 INFO  Base:109 - Action enter text for the element createAcc_Email_input has success
+2022-05-02 20:49:14 INFO  Base:29 - Action click for the element createAcc_Email_label has success
+2022-05-02 20:49:14 INFO  Base:29 - Action click for the element createAcc_Btn has success
+2022-05-02 20:49:14 INFO  Base:38 - Account Sign in Success......
+2022-05-02 20:49:16 INFO  Base:29 - Action click for the element tittleName has success
+2022-05-02 20:49:16 INFO  Base:109 - Action enter text for the element customer_firstname has success
+2022-05-02 20:49:17 INFO  Base:109 - Action enter text for the element customer_lastname has success
+2022-05-02 20:49:17 INFO  Base:109 - Action enter text for the element passwd has success
+2022-05-02 20:49:17 INFO  Base:109 - Action enter text for the element firstname has success
+2022-05-02 20:49:18 INFO  Base:109 - Action enter text for the element lastname has success
+2022-05-02 20:49:18 INFO  Base:109 - Action enter text for the element address1 has success
+2022-05-02 20:49:18 INFO  Base:109 - Action enter text for the element city has success
+2022-05-02 20:49:19 INFO  Base:132 - Action enter text for the element state has success
+2022-05-02 20:49:19 INFO  Base:109 - Action enter text for the element postcode has success
+2022-05-02 20:49:19 INFO  Base:132 - Action enter text for the element country has success
+2022-05-02 20:49:19 INFO  Base:109 - Action enter text for the element phone_mobile has success
+2022-05-02 20:49:22 INFO  Base:29 - Action click for the element registerAcc_Btn has success
+2022-05-02 20:49:22 INFO  Base:66 - Element display for the element welcomeMsg has success
+2022-05-02 20:49:26 INFO  Base:29 - Action click for the element logout has success
+2022-05-02 20:49:26 INFO  Base:61 - Account Details Filled successfully......
+2022-05-02 20:49:28 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:49:28 INFO  Base:87 - Action clear text for the element email has success
+2022-05-02 20:49:28 INFO  Base:109 - Action enter text for the element email has success
+2022-05-02 20:49:28 INFO  Base:109 - Action enter text for the element password has success
+2022-05-02 20:49:31 INFO  Base:29 - Action click for the element signIn has success
+2022-05-02 20:49:31 INFO  Base:66 - Element display for the element authFailed has success
+2022-05-02 20:49:31 INFO  Base:49 - Entered all details for login  
+2022-05-02 20:49:56 ERROR Base:70 - Element display for the element welcomeMsg has failed
+2022-05-02 20:49:56 INFO  Base:55 - Verified Home Page......
+2022-05-02 20:49:57 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:49:57 INFO  Base:87 - Action clear text for the element email has success
+2022-05-02 20:49:57 INFO  Base:109 - Action enter text for the element email has success
+2022-05-02 20:49:58 INFO  Base:109 - Action enter text for the element password has success
+2022-05-02 20:49:59 INFO  Base:29 - Action click for the element signIn has success
+2022-05-02 20:49:59 INFO  Base:66 - Element display for the element authFailed has success
+2022-05-02 20:49:59 INFO  Base:49 - Entered all details for login  
+2022-05-02 20:50:24 ERROR Base:70 - Element display for the element welcomeMsg has failed
+2022-05-02 20:50:24 INFO  Base:55 - Verified Home Page......
+2022-05-02 20:50:25 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:50:25 INFO  Base:87 - Action clear text for the element email has success
+2022-05-02 20:50:25 INFO  Base:109 - Action enter text for the element email has success
+2022-05-02 20:50:25 INFO  Base:109 - Action enter text for the element password has success
+2022-05-02 20:50:28 INFO  Base:29 - Action click for the element signIn has success
+2022-05-02 20:50:28 INFO  Base:66 - Element display for the element welcomeMsg has success
+2022-05-02 20:50:28 INFO  Base:49 - Entered all details for login  
+2022-05-02 20:50:28 INFO  Base:66 - Element display for the element welcomeMsg has success
+2022-05-02 20:50:28 INFO  Base:55 - Verified Home Page......
+2022-05-02 20:50:30 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:50:56 INFO  Base:87 - Action clear text for the element email has success
+2022-05-02 20:50:57 INFO  Base:109 - Action enter text for the element email has success
+2022-05-02 20:50:57 INFO  Base:109 - Action enter text for the element password has success
+2022-05-02 20:51:00 INFO  Base:29 - Action click for the element signIn has success
+2022-05-02 20:51:00 INFO  Base:66 - Element display for the element welcomeMsg has success
+2022-05-02 20:51:03 INFO  Base:29 - Action click for the element women_Section has success
+2022-05-02 20:51:26 INFO  Base:29 - Action click for the element dresses_Section has success
+2022-05-02 20:51:41 INFO  Base:29 - Action click for the element t_Shirts_Section has success
+2022-05-02 20:51:49 INFO  Base:29 - Action click for the element cart has success
+2022-05-02 20:51:49 INFO  Base:116 - Total item count is : 13
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $26.00
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $50.99
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $28.98
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $30.50
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $16.40
+2022-05-02 20:51:49 INFO  Base:43 - Duplicate price are : $16.51
+2022-05-02 20:51:50 INFO  Base:102 - Third and sixth item has been deleted: 
+2022-05-02 20:51:53 INFO  Base:108 - Application launched in mobile view
+2022-05-02 20:52:07 INFO  Base:26 - Demo Application loaded in Browser......
+2022-05-02 20:52:07 INFO  Base:87 - Action clear text for the element email has success
+2022-05-02 20:52:08 INFO  Base:109 - Action enter text for the element email has success
+2022-05-02 20:52:08 INFO  Base:109 - Action enter text for the element password has success
+2022-05-02 20:52:13 INFO  Base:29 - Action click for the element signIn has success
+2022-05-02 20:52:13 INFO  Base:66 - Element display for the element welcomeMsg has success
